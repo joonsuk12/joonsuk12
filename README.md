@@ -1,5 +1,7 @@
-### Hi there 👋
+### BackEnd Developer, oh junseok 👋
+🌱 I’m currently learning **Java, SpringBoot**
 
+📫 How to reach me: 1004joonsuk@naver.com
 <!--
 **joonsuk12/joonsuk12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
