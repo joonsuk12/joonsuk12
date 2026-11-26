@@ -1,18 +1,23 @@
-### BackEnd Developer, oh junseok 👋
-🌱 I’m currently learning **Java, SpringBoot**
+### 안녕하세요, 백엔드 개발자 오준석입니다 👋
 
-📫 How to reach me: 1004joonsuk@naver.com
-<!--
-**joonsuk12/joonsuk12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**불편을 그냥 지나치지 않는 개발자입니다.**
 
-Here are some ideas to get you started:
+- 🏢 국내 대형 손해보험사의 기간계 자동차보험 시스템을 운영·개발하고 있습니다. 대규모 데이터가 오가고 작은 오류도 고객에게 바로 닿는 시스템이라, 정확성과 안정성을 먼저 생각하며 일합니다.
+- 🔁 '이건 왜 매번 사람이 해야 하지?' 싶은 반복 수작업을 찾아, 요청이 없어도 직접 자동화합니다.
+- 🤖 인터넷이 막힌 폐쇄망에서도, 개인 프로젝트에서도 AI 바이브코딩으로 도구를 만들고 실제로 쓰이도록 다듬습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 요즘 만들고 있는 것
+
+| 프로젝트 | 소개 |
+|---|---|
+| [집각](https://github.com/joonsuk12/jipgak) | 신혼·예비부부가 주택도시기금 신혼부부 전용 대출을 받을 수 있는지, 얼마나, 왜 그런지 알려 주는 1차 판정 웹 서비스 |
+| [비사이드디포짓](https://github.com/joonsuk12/besides-deposits) | 주식 초보가 차트·뉴스·리포트·공시를 한 화면에서 보고, 매일 퀴즈로 읽는 법을 익히는 학습형 주식 서비스 |
+
+#### 💻 기술
+
+`Java` `Spring` `Oracle` `SQL 튜닝` `Python` `FastAPI` `Django` `TypeScript` `React` `Next.js` `Claude Code`
+
+#### 📫 연락
+
+- Email: 1004joonsuk@naver.com
+- LinkedIn: [linkedin.com/in/준석-오-589423452](https://www.linkedin.com/in/%EC%A4%80%EC%84%9D-%EC%98%A4-589423452/)
